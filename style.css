@@ -95,10 +95,10 @@ button{
 }
 .card1{
     margin-left: 30px;
-    background-image: url(https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Photosynthesis_2880_Lede.jpg);
+    background-image: src="plant card.png";
 }
 .card2{
-    background-image: url(https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Photosynthesis_2880_Lede.jpg);
+    background-image: url(https://github.com/insiyam/commlab/blob/main/sequence%20card.png);
 }
 .card3{
     margin-left: 30px;
