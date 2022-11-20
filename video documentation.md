@@ -1,37 +1,35 @@
-# Sound Project Documentation
+# Video Project Documentation
 
-### Project Name: Internal Recording AlexaN1978384.wav
+### Project Name: Finding Maitha
 
-### Website Link Link: [https://injoo626.github.io/CommLab2022Fall_SoundScape.io/](https://injoo626.github.io/CommLab2022Fall_SoundScape.io/)
+### Website Link Link: []()
 
 ### Project Description:
 
-Listen to Alexa's recordings and figure out what happened!
+As Insiya, Isha and Khalifa meet up to work on the Video project, they discover that Maitha is missing! Follow along with their journey as they try to find their missing teammate and finish this assignment!
 
 ### Initial Idea:
 
-We wanted to create a story that unfolded as you listened to more audio snippets. I was inspired by how Alexa and other audio assistants can have surveillance audio evidence that could explain mysteries.
+We explored a lot of different ideas including filming a documentary off campus but we ended up deciding on the story line of a group member disappearing. We wanted to create a comedic mystery that would fit in at the campus locations. We decided to use option 4 and include shots at many locations across campus.
 
 ### Process:
 
 ##### Stage 1: Deciding the story
 
-We first had to decide on the story for our audioscape. After we had our initial idea of using Alexa and the rough story line, we started to create a storyboard of different scenes that made the story clear but were also interesting to hear. We trie dto use different sound effects and sectioneed the audio to make a better flow.                           
+We first had to decide on the detailed story for our project. After deciding on our initial idea, I created a storyboard and script that included all the shots we would do as well as the lines we followed (although there was much improvisation) .                           
        
-##### Stage 2: Recording the Audios
+##### Stage 2: Filming
 
-I was the primary voice actor for my group so I had to record all the sounds of the main character. After the workshop, we rented all the items and I recorded my audio in a quiet lounge. I adapted the script we had written previously in my own words so it would sound more familiar to me and the acting would sound realistic. Although I had to reshoot some of the sections, I was haooy with how authentic the audio sounded and I think I portrayed the emotions pretty well.
+We tried to book the video equipment from Terry’s workshop but they were unavailable. We also tried to book the audio equipment and although we had access the equipment was already in use for the days we needed it so we were not able to have it for our shooting. We decided to use a our phones and a tripod to film all our clips and used a secondary phone to record just audio. We split up our filming in two days. First we filmed in the classroom and asked other students to participate. The second day, we met up in the morning to film all the other scenes. 
 
 ##### Stage 3: Editing
 
-I was not as involved in this process since I had already finished my share of the work earlier on in the process. Injoo edited the audioscape together and other members recorded the sound effects and lawywer section.
+Isha edited the audio and videos together to create our final project. She also clipped the videos by locations so we could add them to our website.
 
 ##### Stage 4: Coding
 
-We chose to create a very simple website, as to not give away the mystery element of our story. We worked on this website during class time and created a minial but effective website.
+We chose to create a simple website that focused on the different locations of the film and added to the mystery of the story. We tried to incorporate an SVG into our website and I created some designs for it including icons but since we structured it to have multiple pages that hosted each clip, it didn’t work out. Maitha and Khalifa worked on the code to make the final website. 
 
 ### Reflection:
 
-Overall, I am very happy with our project! Although simple, I think the work stands for itself and evokes emotions. 
-Footer
-
+Overall, this project was a fun way to experiment with video creation. We learned a lot and were able to be creative with our story. 
